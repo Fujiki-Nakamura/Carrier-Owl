@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'q-bio.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        covid: 1
+        covid-19: 1
+        COVID: 1
+        COVID-19: 1
 
 # 通知の閾値
 score_threshold: 0
